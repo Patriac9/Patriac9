@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Langues I am good at: C++
 <!--
 **Patriac9/Patriac9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
