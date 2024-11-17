@@ -1,5 +1,4 @@
 ## Hi there 👋
-Langues I am good at: C++
 ---------------------------
 🖥️Currently working on UE5 games
 <!--
