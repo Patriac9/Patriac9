@@ -1,6 +1,7 @@
 ## Hi there 👋
 ---------------------------
-🖥️Currently working on UE5 games(and Quantum finance solutions
+🖥️Currently working on UE5 games
+Uoft Applied Mathmatics specialist
 <!--
 **Patriac9/Patriac9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
