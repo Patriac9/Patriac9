@@ -1,6 +1,5 @@
 ## Hi there 👋
 ---------------------------
-🖥️Currently working on UE5 games
 ---------------------------
 Uoft Applied Mathmatics specialist
 <!--
